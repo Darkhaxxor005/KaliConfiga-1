@@ -29,14 +29,16 @@ Autonomated basic bug fixer of Kali Linux.
          3.Configures pip in python2.7 and pip3 in python3.[Manually to avoid errors]
          
          4.Updates pips
+         
+         5.Installs Bengali language fonts.
 
-         5.Upgrades your total system with new packages of the sources.
+         6.Upgrades your total system with new packages of the sources.
 
-         6.Installs docker inside your system.[This is optional in your want to use it simplily remove # inside docker installtion area and make it executeable.]
+         7.Installs docker inside your system.[This is optional in your want to use it simplily remove # inside docker installtion area and make it executeable.]
 
-         7.All sources are taken from trusted resources and it contains all the packages of kali linux and there are 8 sources available in kaliconfiga.
+         8.All sources are taken from trusted resources and it contains all the packages of kali linux and there are 8 sources available in kaliconfiga.
 
-         8.Extra packages--> 
+         9.Extra packages--> 
  
                   dnsx
                   subfinder
