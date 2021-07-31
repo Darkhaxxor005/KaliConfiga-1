@@ -38,35 +38,18 @@ Autonomated basic bug fixer of Kali Linux.
 
          8.All sources are taken from trusted resources and it contains all the packages of kali linux and there are 8 sources available in kaliconfiga.
 
-         9.Extra packages--> 
- 
-                  dnsx
-                  subfinder
-                  nuclei
-                  assetfinder
-                  wayback
-                  meg
-                  gf
-                  gron
-                  amass
-                  webscreenshot
-                  waybackunifier
-                  shodan
-                  censys
-                  goaltdns
-                  subjack
-                  ffuf
-                  hakrawler
-                  knockpy
-                  kxss
-                  dalfox
-                  otxurls 
-                  subjs 
-                  Gau 
-
-This packages will autometicly install from a bash script named 0install.[Optional]
+         9.Installs golang.
+         
+         10.Installs jq
+         
+         11.Configures i386 architecture.
+         
+         12.Installs lolcat
+         
+         13.Installs neofetch
+         
+         14.And adds some extra packages from 0install. 
                        
-
 Why 0install ??
      
                       Its Fast.
@@ -81,10 +64,6 @@ Why 0install ??
      
                       It doesnt use apt to install tools so tools can be downloaded and installed in any distro.
 
-                     Sub tool Name:0install
-                     Sub tool language:bash
-                     Author:Joy Ghosh
-                     Github link:https://github.com/JoyGhoshs/
 
 0install is a sub tool in kaliconfiga, if user wants to install the following packages then they can use it and I'm not the author of 0install.
 
