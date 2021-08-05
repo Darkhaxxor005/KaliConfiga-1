@@ -189,12 +189,12 @@ try:
 	 		            _/ |       __/ |
  	 		           |__/       |___/ 
                                      .................................''')
-    print("")
-    helio = int(input(Fore.GREEN + "Do you want to reboot now(1.Yes/2.No)?=>"))
-    if helio == 1:
-	   os.system('reboot')
-    else:
-	   pass	
+	print("")
+	helio = int(input(Fore.GREEN + "Do you want to reboot now(1.Yes/2.No)?=>"))
+	if helio == 1:
+		os.system('reboot')
+	else:
+		pass	
 
 except KeyboardInterrupt:
 	os.system('exit')
